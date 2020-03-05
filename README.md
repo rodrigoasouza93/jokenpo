@@ -4,23 +4,23 @@ Aplicação desenvolvida em Flutter peproduzir o jogo pedra, papel e tesoura, ou
 
 [Pedra, papel e tesoura](https://pt.wikipedia.org/wiki/Pedra,_papel_e_tesoura)
 
-## Screens
+## Telas
 
-### Initial State
+### Estado inicial
 
-![Application initial state](https://github.com/rodrigoasouza93/jokenpo/blob/master/apk/screens/initialstate.jpg)
-
-
-### Win State
-
-![Application initial state](https://github.com/rodrigoasouza93/jokenpo/blob/master/apk/screens/winstate.jpg)
+![Estado inicial da aplicaço](https://github.com/rodrigoasouza93/jokenpo/blob/master/apk/screens/initialstate.jpg)
 
 
-### Lose State
+### Estado de usuário vencedor
 
-![Application initial state](https://github.com/rodrigoasouza93/jokenpo/blob/master/apk/screens/losestate.jpg)
+![Estado de usuário vencedor da aplicaço](https://github.com/rodrigoasouza93/jokenpo/blob/master/apk/screens/winstate.jpg)
 
 
-### Tie State
+### Estado de usuário perdedor
 
-![Application initial state](https://github.com/rodrigoasouza93/jokenpo/blob/master/apk/screens/tiestate.jpg)
+![Estado de usuário perdedor da aplicaço](https://github.com/rodrigoasouza93/jokenpo/blob/master/apk/screens/losestate.jpg)
+
+
+### Estado de empate
+
+![Estado de empate da aplicaço](https://github.com/rodrigoasouza93/jokenpo/blob/master/apk/screens/tiestate.jpg)
